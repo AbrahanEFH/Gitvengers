@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Allforone
+* Captain America
