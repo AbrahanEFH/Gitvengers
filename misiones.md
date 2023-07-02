@@ -1,0 +1,4 @@
+## Misiones
+
+* Investigar
+* capturar redskull
